@@ -3,7 +3,9 @@
  */
 package com.wipro.java.oops;
 
-/**
+/**employee = Parent class
+ * Developer, Manager, programLead = class
+ * extends = keyword
  * 
  */
 public class employee {
@@ -12,6 +14,7 @@ public class employee {
 	private String name;
 	private String emailId;
 	private int phone;
+	private boolean isTaxApplicable;
 	
 	public int getEmp_no() {
 		return emp_no;
