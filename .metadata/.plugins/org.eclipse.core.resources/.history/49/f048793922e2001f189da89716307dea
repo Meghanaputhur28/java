@@ -17,6 +17,7 @@ public class Car {
 	public void setWeight(float weight) {
 		this.weight = weight;
 	}
+
 	/**
 	 * @return the speed
 	 */

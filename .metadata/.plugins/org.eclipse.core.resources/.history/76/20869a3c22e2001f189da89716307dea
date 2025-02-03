@@ -14,5 +14,6 @@ public class Tata extends Car {
 		Car car2=new Tata();
 		car2.setSpeed(120f);
 		car2.showSpeed();
+
 	}
 }
