@@ -15,6 +15,7 @@ public class Animal {
 		this.age=age;
 		this.weight=weight;
 	}
+
 	/**
 	 * @param args
 	 */
