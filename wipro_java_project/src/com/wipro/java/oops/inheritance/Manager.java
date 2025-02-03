@@ -16,7 +16,6 @@ public class Manager extends employee{
 	public Manager() {
 		// TODO Auto-generated constructor stub
 	}
-
 	/**
 	 * @param args
 	 */

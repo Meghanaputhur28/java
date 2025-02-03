@@ -3,27 +3,26 @@
  */
 package com.wipro.java.oops.inheritance;
 
-/**projectLeas = child class
- * employee = Parent class
+/** Developer = child class
+ * employee = parent class
  * extends = keyword
  * 
  */
-public class ProgramLead extends employee{
+public class Developer extends employee{
 
 	/**
 	 * 
 	 */
-	public ProgramLead() {
+	public Developer() {
 		// TODO Auto-generated constructor stub
 	}
+
 	/**
 	 * @param args
 	 */
-	public static void main(String a[]) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//ProgramLead programLead = new ProgramLead();
-		//ProgramLead programLead1 = (ProgramLead) new employee();
-		employee employeee = new ProgramLead();
+		employee employeee = new Developer();
 		employeee.setEmp_no (644788);
 		employeee.setName("Meghana");
 		employeee.setPhone(89851);
