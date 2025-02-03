@@ -8,7 +8,7 @@ public class Demoabstract {
 				Cars object1=new Ford();
 				Cars object2=new Bmw();
 				object1.carColor();
-				object2.carColor(); 
+				object2.carColor();  
 				
 			}
 
