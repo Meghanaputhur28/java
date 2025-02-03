@@ -7,6 +7,5 @@ public class Ford extends Cars{
 		// TODO Auto-generated method stub
 		
 	}
-
 	
 }
