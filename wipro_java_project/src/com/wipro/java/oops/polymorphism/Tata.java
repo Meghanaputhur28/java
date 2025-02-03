@@ -1,0 +1,19 @@
+package com.wipro.java.oops.polymorphism;
+
+// in child class main method should be there
+
+public class Tata extends Car {
+	public void showSpeed() {
+    	System.out.println("Speed of tata: "+getSpeed());
+}
+	public void showWeight() {
+		System.out.println("Weight of tata: "+getWeight());
+		
+}
+	public static void main(String a[]) {
+		Car car2=new Tata();
+		car2.setSpeed(120f);
+		car2.showSpeed();
+
+	}
+}
