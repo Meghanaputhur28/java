@@ -16,7 +16,6 @@ public class Developer extends employee{
 	public Developer() {
 		// TODO Auto-generated constructor stub
 	}
-
 	/**
 	 * @param args
 	 */
