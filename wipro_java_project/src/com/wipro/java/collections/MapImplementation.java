@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.*;
 
-public class MapHash {
+public class MapImplementation {
 	public static void main(String[] args) {
 		Map<Integer, String> map = new  HashMap<>();
 		map.put(1, "Meghana");
