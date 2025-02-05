@@ -1,0 +1,9 @@
+package com.wipro.java.collections;
+
+public class LinkedList1 {
+
+	public LinkedList1() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
