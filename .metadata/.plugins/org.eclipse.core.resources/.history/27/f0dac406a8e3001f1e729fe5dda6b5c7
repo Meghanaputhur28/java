@@ -1,0 +1,9 @@
+package com.wipro.java.collections;
+
+public class MapHash {
+
+	public MapHash() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
