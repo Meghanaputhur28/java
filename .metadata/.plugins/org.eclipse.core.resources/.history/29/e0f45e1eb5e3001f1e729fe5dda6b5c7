@@ -1,0 +1,9 @@
+package com.wipro.java.collections;
+
+public class CombinedCollections {
+
+	public CombinedCollections() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
