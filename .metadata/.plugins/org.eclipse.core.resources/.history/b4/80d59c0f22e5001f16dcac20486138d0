@@ -14,6 +14,7 @@ public class CalculatorTest {
         assertEquals(42, result);
     }
 	
+	
 	@Test
 	public void testSub() {
         int result = calculator.sub(89, 9);
