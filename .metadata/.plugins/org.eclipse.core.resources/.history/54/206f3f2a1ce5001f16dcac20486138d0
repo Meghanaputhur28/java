@@ -15,7 +15,7 @@ public class StringApi {
 		System.out.println(str.contains("a"));
 		String[] a= str.split(" ");
 		for (String str1:a) {
-			System.out.println(str1); 
+			System.out.println(str1);
 		}
 	}
 }
