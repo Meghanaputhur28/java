@@ -26,7 +26,7 @@
 		<property name="name">
 			<value>Name2</value>
 		</property>
-		<property name="city">
+		<property name="city"> 
 			<value>MP</value>
 		</property>
 
