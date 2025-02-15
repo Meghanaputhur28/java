@@ -14,7 +14,6 @@ public class Rectangle extends Shape {
             this.height = target.height;
         }
     }
-
     @Override
     public Shape clone() {
         return new Rectangle(this);

@@ -4,7 +4,7 @@ public class Circle extends Shape {
     public int radius;
 
     public Circle() {
-    }
+    } 
 
     public Circle(Circle target) {
         super(target);

@@ -20,4 +20,4 @@ public final class Singleton {
         }
         return instance;
     }
-}
+} 

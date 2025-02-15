@@ -11,7 +11,6 @@ public class Demo {
     public static void main(String[] args) {
         List<Shape> shapes = new ArrayList<>();
         List<Shape> shapesCopy = new ArrayList<>();
-
         Circle circle = new Circle();
         circle.x = 10;
         circle.y = 20;

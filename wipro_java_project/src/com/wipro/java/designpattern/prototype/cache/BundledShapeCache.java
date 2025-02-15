@@ -16,7 +16,6 @@ public class BundledShapeCache {
         circle.y = 7;
         circle.radius = 45;
         circle.color = "Green";
-
         Rectangle rectangle = new Rectangle();
         rectangle.x = 6;
         rectangle.y = 9;
